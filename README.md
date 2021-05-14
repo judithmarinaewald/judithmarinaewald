@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @judithmarinaewald
-- 👀 I’m interested in ocean science, earth observation, diving
+- 👀 I’m interested in ocean science, earth observation
 - 🌱 I’m currently learning about monitoring essential climate variables at the sea surface (skin) with satellite and in situ data
 - 💞️ I’m looking to collaborate on processing satellite data
 - 📫 How to reach me: judith.ewald@mailbox.org
